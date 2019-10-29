@@ -1,2 +1,2 @@
-# CS-231n
-Also applicable for ECE 239AS
+# ECE 239AS - Ucla class
+Also applicable for CS 231n stanford
